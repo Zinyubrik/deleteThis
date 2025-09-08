@@ -13,6 +13,5 @@ _Что я сделал на первом занятии?_
 11) Создал новую ветку
 12) Попрыгал с одной ветки на другую, проверив наличие обеих веток и файлов в репозитории гитхаба
 <p align="center">
-  <img width="800" height="530" src="<img width="800" height="530" alt="image" src="https://github.com/user-attachments/assets/f5deaebc-8158-432f-8318-a142bc33e2a5" />
-">
+  <img width="800" height="530" src="<img width="800" height="530" alt="image" src="https://github.com/user-attachments/assets/f5deaebc-8158-432f-8318-a142bc33e2a5"/>
 </p>
